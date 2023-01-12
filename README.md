@@ -1,7 +1,7 @@
-[![MasterHead](https://img2.cgtrader.com/items/91570/android_logo_3d_model_3ds_c4d_obj_3d04905b-bae4-4738-a4f1-0bc45c27809c.jpg)
+
 <h1 align="center">Hi 👋, I'm Sidhant Sambyal</h1>
 <h3 align="center">A Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif>
+<img  align="right" alt="coding"width="400"src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhant-s&label=Profile%20views&color=0e75b6&style=flat" alt="sidhant-s" /> </p>
 
 - 🌱 I’m currently learning **C++**
